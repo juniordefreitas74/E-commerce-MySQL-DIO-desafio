@@ -33,14 +33,10 @@ Este diagrama representa a estrutura do banco de dados do sistema E-commerce. El
 
 ## Diagrama ER 
 
-(https://github.com/user-attachments/assets/39b7b82a-6c0c-43fe-be49-669de397cb1b)
+![Diagrama de relacionamento de entidades](ecommerce.png)
 
 
 ## Observações
 
-* **[Adicionar observações relevantes, como:**
-    * **Justificativas para as escolhas de relacionamentos:** Por exemplo, por que a relação entre Fornecedor e Produto é N:N?
-    * **Considerações sobre performance:** Quais índices foram criados para melhorar a performance das consultas?
-    * **Restrições de integridade:** Quais as restrições de integridade foram definidas (chave primária, chave estrangeira, etc.)?
-    * **Futuras melhorias:** Quais funcionalidades podem ser adicionadas no futuro?
+* **Futuras melhorias:** refinamento mais apurado.
 
